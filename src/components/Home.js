@@ -5,6 +5,8 @@ import "aos/dist/aos.css";
 
 export const Home = () => {
   AOS.init();
+  AOS.refresh();
+
   return (
     <div id="home">
       <video id="home-background-video" src={stars} autoPlay loop muted />

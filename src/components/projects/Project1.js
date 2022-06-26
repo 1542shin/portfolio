@@ -11,6 +11,7 @@ import "aos/dist/aos.css";
 
 export const Project1 = () => {
   AOS.init();
+  AOS.refresh();
   return (
     <div id="project1" data-aos="zoom-in" data-aos-duration="1000">
       <div id="project1-box">

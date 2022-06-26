@@ -6,6 +6,8 @@ import "aos/dist/aos.css";
 
 export const About = () => {
   AOS.init();
+  AOS.refresh();
+
   return (
     <div id="about">
       <div
