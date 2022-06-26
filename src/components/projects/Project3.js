@@ -1,5 +1,4 @@
 import "./project3.scss";
-import "aos/dist/aos.css";
 import myfavspot from "../assets/images/myfavspot.png";
 import github from "../assets/icons/github.png";
 import newlink from "../assets/icons/newlink.svg";
@@ -11,7 +10,7 @@ import mui from "../assets/icons/mui.svg";
 export const Project3 = () => {
   return (
     <div id="project3">
-      <div id="project3-box" data-aos="zoom-in" data-aos-duration="1000">
+      <div id="project3-box" >
         <div className="project-text">
           <div id="prj3-text1">03</div>
           <div id="prj3-text2">Find your favorite spot</div>

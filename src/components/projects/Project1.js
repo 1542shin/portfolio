@@ -1,6 +1,4 @@
 import "./project1.scss";
-import "aos/dist/aos.css";
-
 import mycatalog from "../assets/images/mycatalog.png";
 import github from "../assets/icons/github.png";
 import newlink from "../assets/icons/newlink.svg";
@@ -12,7 +10,7 @@ import tailwind from "../assets/icons/tailwind.svg";
 export const Project1 = () => {
   return (
     <div id="project1">
-      <div id="project1-box" data-aos="zoom-in" data-aos-duration="1000">
+      <div id="project1-box">
         <div className="project-text">
           <div id="prj1-text1">01</div>
           <div id="prj1-text2">

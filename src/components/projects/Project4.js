@@ -1,5 +1,4 @@
 import "./project4.scss";
-import "aos/dist/aos.css";
 
 import myportfolio from "../assets/images/myportfolio.png";
 import github from "../assets/icons/github.png";
@@ -11,7 +10,7 @@ import js from "../assets/icons/js.svg";
 export const Project4 = () => {
   return (
     <div id="project4">
-      <div id="project4-box" data-aos="zoom-in" data-aos-duration="1000">
+      <div id="project4-box">
         <div className="project-text">
           <div id="prj4-text1">04</div>
           <div id="prj4-text2">Shin Portfolio</div>

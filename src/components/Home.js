@@ -1,8 +1,10 @@
 import "./home.scss";
 import stars from "./assets/video/stars.mp4";
+import AOS from "aos";
 import "aos/dist/aos.css";
 
 export const Home = () => {
+  AOS.init();
   return (
     <div id="home">
       <video id="home-background-video" src={stars} autoPlay loop muted />

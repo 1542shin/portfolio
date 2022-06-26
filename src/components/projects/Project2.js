@@ -1,6 +1,4 @@
 import "./project2.scss";
-import "aos/dist/aos.css";
-
 import healthtrack from "../assets/images/healthtrack.png";
 import github from "../assets/icons/github.png";
 import newlink from "../assets/icons/newlink.svg";
@@ -12,7 +10,7 @@ import mui from "../assets/icons/mui.svg";
 export const Project2 = () => {
   return (
     <div id="project2">
-      <div id="project2-box" data-aos="zoom-in" data-aos-duration="1000">
+      <div id="project2-box" >
         <div className="project-text">
           <div id="prj2-text1">02</div>
           <div id="prj2-text2">Track and check your health information.</div>

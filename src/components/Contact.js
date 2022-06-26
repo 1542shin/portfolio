@@ -11,8 +11,11 @@ import emailLogo from "./assets/icons/email.svg";
 import phoneIcon from "./assets/icons/phone.svg";
 import mailIcon from "./assets/icons/mail.svg";
 import send from "./assets/icons/send.svg";
+import AOS from "aos";
+import "aos/dist/aos.css";
 
 export const Contact = () => {
+  AOS.init();
   const form = useRef();
   const sendEmail = (e) => {
     e.preventDefault();
