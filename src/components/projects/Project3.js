@@ -6,10 +6,13 @@ import react from "../assets/icons/react.svg";
 import redux from "../assets/icons/redux.svg";
 import js from "../assets/icons/js.svg";
 import mui from "../assets/icons/mui.svg";
+import AOS from "aos";
+import "aos/dist/aos.css";
 
 export const Project3 = () => {
+  AOS.init();
   return (
-    <div id="project3">
+    <div id="project3" data-aos="zoom-in" data-aos-duration="1000">
       <div id="project3-box" >
         <div className="project-text">
           <div id="prj3-text1">03</div>
