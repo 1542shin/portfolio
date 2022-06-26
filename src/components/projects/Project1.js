@@ -24,6 +24,13 @@ export const Project1 = () => {
             {" "}
             My Catalog fetches a number of posts from multiple websites and
             shows them on the timeline for each category.
+            It requires access to this{'  '}
+            <a
+                id="cors"
+                href=" https://cors-anywhere.herokuapp.com/"
+                target="_blank"
+                rel="noreferrer"
+              >server</a>.
           </div>
           <div id="prj1-text4">
             <div className="button-box">
