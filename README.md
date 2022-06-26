@@ -1,6 +1,6 @@
 # Shin Portfolio
 
-This is my web portfolio made with React/Redux library. Learn about me and the web projects I worked on.
+This is my web portfolio made with React library. Learn about me and the web projects I worked on.
 
 
 ## Live Demo
