@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/shin-portfolio/static/css/main.09fb124a.css",
+    "main.js": "/shin-portfolio/static/js/main.9b925e26.js",
+    "static/js/787.d64fd484.chunk.js": "/shin-portfolio/static/js/787.d64fd484.chunk.js",
+    "static/media/myfavspot.png": "/shin-portfolio/static/media/myfavspot.76eec98ba348a58e5916.png",
+    "static/media/stars.mp4": "/shin-portfolio/static/media/stars.2d8a10b8f86309c849e3.mp4",
+    "static/media/mycatalog.png": "/shin-portfolio/static/media/mycatalog.5180d0529801e6589422.png",
+    "static/media/myportfolio.png": "/shin-portfolio/static/media/myportfolio.27fc8bc171f92b91b761.png",
+    "static/media/healthtrack.png": "/shin-portfolio/static/media/healthtrack.332b46c7dc8388e21a11.png",
+    "static/media/astronaut.jpeg": "/shin-portfolio/static/media/astronaut.626ebc94172b92680e41.jpeg",
+    "static/media/react.svg": "/shin-portfolio/static/media/react.627925cb6c7077a0923c963289a286dd.svg",
+    "static/media/scss.svg": "/shin-portfolio/static/media/scss.5a8e6be0d097685dcfd71c117d6dfae9.svg",
+    "static/media/redux.svg": "/shin-portfolio/static/media/redux.8f9eb72f93e1d24cc6db41b574ed81f3.svg",
+    "static/media/git.svg": "/shin-portfolio/static/media/git.55ee50e83ad3de35cb3854ed1eda6524.svg",
+    "static/media/js.svg": "/shin-portfolio/static/media/js.04e4e098f4ea17ebe3d70bddb1efee45.svg",
+    "static/media/css.svg": "/shin-portfolio/static/media/css.1a1242e003093806ccc481cfda928d3c.svg",
+    "static/media/send.svg": "/shin-portfolio/static/media/send.4009d4786a96c7365f157771824e8d49.svg",
+    "static/media/mail.svg": "/shin-portfolio/static/media/mail.fbaf939fb2054e4d413e6cca7b20455e.svg",
+    "static/media/html.svg": "/shin-portfolio/static/media/html.668345cf9baed51d135444fcdb10cab0.svg",
+    "index.html": "/shin-portfolio/index.html",
+    "static/media/tailwind.svg": "/shin-portfolio/static/media/tailwind.8a5a7561071770a9b003b43cc9ba4705.svg",
+    "static/media/newlink.svg": "/shin-portfolio/static/media/newlink.b260c7215d404ded1484e926339ccc3b.svg",
+    "static/media/phone.svg": "/shin-portfolio/static/media/phone.21d89b178168c1e749703623af91ccce.svg",
+    "static/media/mui.svg": "/shin-portfolio/static/media/mui.08d7ec58b4b002344edcd7fdef0539a6.svg",
+    "static/media/email.svg": "/shin-portfolio/static/media/email.3d74653508adec1d572d21ceead9b0e7.svg",
+    "main.09fb124a.css.map": "/shin-portfolio/static/css/main.09fb124a.css.map",
+    "main.9b925e26.js.map": "/shin-portfolio/static/js/main.9b925e26.js.map",
+    "787.d64fd484.chunk.js.map": "/shin-portfolio/static/js/787.d64fd484.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.09fb124a.css",
+    "static/js/main.9b925e26.js"
+  ]
+}
