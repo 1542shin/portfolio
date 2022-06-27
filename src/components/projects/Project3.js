@@ -21,7 +21,7 @@ export const Project3 = () => {
             {" "}
             MyFavSpot searches restaurants, and you can pick and save them to
             your favorites . Make picking restaurants easier.
-            It requires access to this{'  '}
+            It requires access to cors-anywhere{'  '}
             <a
                 id="cors"
                 href=" https://cors-anywhere.herokuapp.com/"

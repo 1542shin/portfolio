@@ -18,13 +18,13 @@ export const Project1 = () => {
         <div className="project-text">
           <div id="prj1-text1">01</div>
           <div id="prj1-text2">
-            Get articles from multiple sources in one website.
+            Get articles in one website from multiple sources.
           </div>
           <div id="prj1-text3">
             {" "}
-            My Catalog fetches a number of posts from multiple websites and
-            shows them on the timeline for each category.
-            It requires access to this{'  '}
+            My Catalog fetches a number of posts from multiple websites for each category and
+            shows them on the timeline.
+            It requires access to cors-anywhere{'  '}
             <a
                 id="cors"
                 href=" https://cors-anywhere.herokuapp.com/"
