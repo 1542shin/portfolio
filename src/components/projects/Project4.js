@@ -35,19 +35,7 @@ export const Project4 = () => {
                 </button>
               </a>
             </div>
-            <div className="button-box">
-              <a
-                className="demo-anchor"
-                href="https://1542shin.github.io/shin-portfolio/"
-                target="_blank"
-                rel="noreferrer"
-              >
-                <button>
-                  <img className="demo-icon" src={newlink} alt="newlink" />
-                  Demo
-                </button>
-              </a>
-            </div>
+           
           </div>
         </div>
         <div className="project-image">
