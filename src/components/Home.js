@@ -7,7 +7,7 @@ export const Home = () => {
     <div id="home">
       <video id="home-background-video" src={stars} autoPlay loop muted />
 
-      <div id="home-box" data-aos="zoom-in" data-aos-duration="1000"    data-aos-delay="500">
+      <div id="home-box" data-aos="zoom-in" data-aos-duration="1000"    data-aos-delay="50">
         <div id="home-intro1">Hi, I am</div>
         <div id="home-intro2">Aahan Shin</div>
         <div id="home-intro3">Web Technology Enthusiast</div>
