@@ -1,12 +1,8 @@
 import "./about.scss";
 import astronaut from "./assets/images/astronaut.jpeg";
 import { skillsIcons } from "./assets/skills.js";
-import AOS from "aos";
-import "aos/dist/aos.css";
 
 export const About = () => {
-  AOS.init();
-  AOS.refresh();
 
   return (
     <div id="about">

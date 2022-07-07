@@ -6,11 +6,8 @@ import newlink from "../assets/icons/newlink.svg";
 import react from "../assets/icons/react.svg";
 import scss from "../assets/icons/scss.svg";
 import js from "../assets/icons/js.svg";
-import AOS from "aos";
-import "aos/dist/aos.css";
 
 export const Project4 = () => {
-  AOS.init();
   return (
     <div id="project4" data-aos="zoom-in" data-aos-duration="1000">
       <div id="project4-box">

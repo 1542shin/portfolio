@@ -1,11 +1,7 @@
 import "./home.scss";
 import stars from "./assets/video/stars.mp4";
-import AOS from "aos";
-import "aos/dist/aos.css";
 
 export const Home = () => {
-  AOS.init();
-  AOS.refresh();
 
   return (
     <div id="home">

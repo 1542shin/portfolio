@@ -5,7 +5,10 @@ import { About } from "./components/About";
 import React from "react";
 import { Projects } from "./components/projects/Projects";
 import { Contact } from "./components/Contact";
+import AOS from "aos";
+import "aos/dist/aos.css";
 
+AOS.init()
 function App() {
   return (
     <React.Fragment>

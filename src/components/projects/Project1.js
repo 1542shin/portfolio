@@ -6,12 +6,8 @@ import react from "../assets/icons/react.svg";
 import redux from "../assets/icons/redux.svg";
 import js from "../assets/icons/js.svg";
 import tailwind from "../assets/icons/tailwind.svg";
-import AOS from "aos";
-import "aos/dist/aos.css";
 
 export const Project1 = () => {
-  AOS.init();
-  AOS.refresh();
   return (
     <div id="project1" data-aos="zoom-in" data-aos-duration="1000">
       <div id="project1-box">
