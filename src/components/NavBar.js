@@ -35,7 +35,7 @@ export const NavBar = () => {
 
         <a
           id="linkedin"
-          href="https://www.linkedin.com/in/aahan-shin-300722235"
+          href="https://www.linkedin.com/in/❄️aahan-s-198950246"
           target="_blank"
           rel="noreferrer"
         >

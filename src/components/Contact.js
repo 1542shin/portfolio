@@ -42,7 +42,7 @@ export const Contact = () => {
           </div>
           <div id="contact-line2">
             <img src={emailLogo} alt="email" />
-            1542shin@gmail.com
+            1142shin@gmail.com
           </div>
           <div id="contact-links">
             <a id="mail" href="mailto:1142shin@gmail.com">
@@ -59,7 +59,7 @@ export const Contact = () => {
             </a>
             <a
               id="linkedin"
-              href="https://www.linkedin.com/in/aahan-shin-300722235"
+              href="https://www.linkedin.com/in/❄️aahan-s-198950246"
               target="_blank"
               rel="noreferrer"
             >
