@@ -19,7 +19,7 @@ export const NavBar = () => {
         Contact
       </a>{" "}
       <div id="links">
-        <a id="mail" href="mailto:1542shin@gmail.com">
+        <a id="mail" href="mailto:1142shin@gmail.com">
           <img className="link-icons" src={mail} alt="mail" />
         </a>
 
