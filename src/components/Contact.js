@@ -42,10 +42,10 @@ export const Contact = () => {
           </div>
           <div id="contact-line2">
             <img src={emailLogo} alt="email" />
-            1142shin@gmail.com
+            1542shin@gmail.com
           </div>
           <div id="contact-links">
-            <a id="mail" href="mailto:1142shin@gmail.com">
+            <a id="mail" href="mailto:1542shin@gmail.com">
               <img className="link-icons" src={mailIcon} alt="mail" />
             </a>
             <a
