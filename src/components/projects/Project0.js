@@ -1,32 +1,33 @@
 import "./project1.scss";
-import mycatalog from "../assets/images/mycatalog.png";
+import timezone from "../assets/images/timezone.png";
 import github from "../assets/icons/github.png";
 import newlink from "../assets/icons/newlink.svg";
 import react from "../assets/icons/react.svg";
-import redux from "../assets/icons/redux.svg";
+import mui from "../assets/icons/mui.svg";
 import js from "../assets/icons/js.svg";
+import firebase from "../assets/icons/firebase.svg";
 import tailwind from "../assets/icons/tailwind.svg";
 
-export const Project1 = () => {
+export const Project0 = () => {
   return (
     <div id="project1" data-aos="zoom-in" data-aos-duration="1000">
       <div id="project1-box">
         <div className="project-text">
-          <div id="prj1-text1">02</div>
+          <div id="prj1-text1">01</div>
           <div id="prj1-text2">
-            Get articles in one website from multiple sources.
+            Plan meeting in different timezone
           </div>
           <div id="prj1-text3">
             {" "}
-            My Catalog fetches a number of posts from multiple websites for each category and
-            shows them on the timeline.
+            Timezone planner lets you plan meetings with people in different timezones. 
+            You will see the availabilty of other people in the timeline converted to your timezone.
             
           </div>
           <div id="prj1-text4">
             <div className="button-box">
               <a
                 className="source-anchor"
-                href="https://github.com/1542shin/my-catalog"
+                href="https://github.com/Scott-Coates-Org/solo-project-1342shin"
                 target="_blank"
                 rel="noreferrer"
               >
@@ -39,7 +40,7 @@ export const Project1 = () => {
             <div className="button-box">
               <a
                 className="demo-anchor"
-                href="https://1542shin.github.io/my-catalog/"
+                href="https://timezone-planner.web.app/"
                 target="_blank"
                 rel="noreferrer"
               >
@@ -52,16 +53,15 @@ export const Project1 = () => {
           </div>
         </div>
         <div className="project-image">
-          <img id="prj1-img" src={mycatalog} alt="project1" />
+          <img id="prj1-img" src={timezone} alt="project1" />
           <div className="project-skills-tab">
             <div className="project-skills-wrap">
               <div>Skills Used: </div>
               <div id="prj1-skills">
-                <img src={js} alt="javascript" />
-
-                <img src={react} alt="react" />
-                <img src={redux} alt="redux" />
-                <img src={tailwind} alt="tailwind" />
+              <img src={js} alt="javascript" />
+              <img src={react} alt="react" />
+              <img src={mui} alt="mui" />
+              <img src={firebase} alt="firebase" />
               </div>
             </div>
           </div>

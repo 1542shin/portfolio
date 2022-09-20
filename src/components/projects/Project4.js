@@ -1,8 +1,7 @@
 import "./project4.scss";
-
 import myportfolio from "../assets/images/myportfolio.png";
 import github from "../assets/icons/github.png";
-import newlink from "../assets/icons/newlink.svg";
+import firebase from "../assets/icons/firebase.svg";
 import react from "../assets/icons/react.svg";
 import scss from "../assets/icons/scss.svg";
 import js from "../assets/icons/js.svg";
@@ -12,7 +11,7 @@ export const Project4 = () => {
     <div id="project4" data-aos="zoom-in" data-aos-duration="1000">
       <div id="project4-box">
         <div className="project-text">
-          <div id="prj4-text1">04</div>
+          <div id="prj4-text1">05</div>
           <div id="prj4-text2">Shin Portfolio</div>
           <div id="prj4-text3">
             This is my web portfolio. Learn about me and the web projects I
@@ -44,6 +43,7 @@ export const Project4 = () => {
                 <img src={js} alt="javascript" />
                 <img src={react} alt="react" />
                 <img src={scss} alt="scss" />
+                <img src={firebase} alt="firebase" />
               </div>
             </div>
           </div>

@@ -1,3 +1,4 @@
+import { Project0 } from "./Project0";
 import { Project1 } from "./Project1";
 import { Project2 } from "./Project2";
 import { Project3 } from "./Project3";
@@ -9,6 +10,7 @@ export const Projects = () => {
 
   return (
     <div id="projects">
+      <Project0/>
       <Project1/>
       <Project2/>
       <Project3/>

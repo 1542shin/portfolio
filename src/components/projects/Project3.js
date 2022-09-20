@@ -12,7 +12,7 @@ export const Project3 = () => {
     <div id="project3" data-aos="zoom-in" data-aos-duration="1000">
       <div id="project3-box" >
         <div className="project-text">
-          <div id="prj3-text1">03</div>
+          <div id="prj3-text1">04</div>
           <div id="prj3-text2">Find your favorite spot</div>
           <div id="prj3-text3">
             {" "}
