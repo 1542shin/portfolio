@@ -4,6 +4,7 @@ import css from "../assets/icons/css.svg";
 import scss from "../assets/icons/scss.svg";
 import redux from "../assets/icons/redux.svg";
 import js from "../assets/icons/js.svg";
+import firebase from "../assets/icons/firebase2.svg";
 import git from "../assets/icons/git.svg";
 import mui from "../assets/icons/mui.svg";
 import tailwind from "../assets/icons/tailwind.svg";
@@ -18,4 +19,5 @@ export const skillsIcons = [
   { skill: "Tailwind", icon: tailwind },
   { skill: "SCSS", icon: scss },
   { skill: "Git", icon: git },
+  { skill: "Firebase", icon: firebase },
 ];
