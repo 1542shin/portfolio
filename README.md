@@ -5,7 +5,6 @@ This is my web portfolio made with React library. Learn about me and the web pro
 
 ## Live Demo
 
-[Shin Portfolio Demo](https://aahan.web.app) ([https://aahan.web.app](https://aahan.web.app))
 
 ![Alt text](/Demo-screenshot.png )
 ![Alt text](/Demo-screenshot2.png )
